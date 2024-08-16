@@ -81,7 +81,7 @@ export function Home() {
                 <CardHeader floated={false} className="relative h-56">
                   <img
                     alt="Card Image"
-                    src="/img/spartan_study.jpeg"
+                    src="public/img/spartan_study.jpeg"
                     className="h-full w-full"
                   />
                 </CardHeader>
