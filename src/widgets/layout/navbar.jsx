@@ -118,7 +118,7 @@ Navbar.defaultProps = {
   brandName: "Casa dos Guerreiros",
   action: (
     <a
-      href="https://l.instagram.com/?u=https%3A%2F%2Fwhats.link%2Ffalecomacasadosguerreirosconcursos&e=AT2scNhp4C4HlKc4vQfNf0RfOqB5ovnbrFs0mqfdhvD7hPivzA9eQhOGseVzTFENdsnDvF-WMUGpKmQIEhXbvaG-V9E0910Kr2vIy41cPd1gTLT2Kjj89g"
+      href="https://whats.link/falecomacasadosguerreirosconcursos"
       target="_blank"
     >
       <Button variant="gradient" size="sm" fullWidth>

@@ -1,28 +1,31 @@
 import {
+  AcademicCapIcon,
+  BriefcaseIcon,
   ChatBubbleBottomCenterTextIcon,
+  HomeModernIcon,
 } from "@heroicons/react/24/solid";
 
 export const featuresData = [
   {
     color: "gray",
-    title: "Awarded Agency",
-    icon: ChatBubbleBottomCenterTextIcon,
+    title: "Seja um Policial",
+    icon: BriefcaseIcon,
     description:
-      "Divide details about your product or agency work into parts. A paragraph describing a feature will be enough.",
+      "Somos um Curso Preparatório voltado para as áreas policiais. proporcionamos materiais exclusivos e aulas presenciais.",
   },
   {
     color: "gray",
-    title: "Free Revisions",
-    icon: ChatBubbleBottomCenterTextIcon,
+    title: "Preparo",
+    icon: AcademicCapIcon,
     description:
-      "Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious.",
+      "Possuímos um cronograma/planejamento intensivo, para que o aluno seja completamente preparado, e que se sinta totalmente seguro ao realizar os certames desejados.",
   },
   {
     color: "gray",
-    title: "Verified Company",
-    icon: ChatBubbleBottomCenterTextIcon,
+    title: "Aulas Presenciais",
+    icon: HomeModernIcon,
     description:
-      "Write a few lines about each one. A paragraph describing a feature will be enough. Keep you user engaged!",
+      "📍Estamos localizados em Barra Mansa/RJ. Oferecemos suporte total aos alunos, afim de sanar todas as dúvidas e conceder todo conhecimento necessário.",
   },
 ];
 
